@@ -1,0 +1,55 @@
+p,span{
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2{
+    font-family: 'Poppins', sans-serif;
+}
+.cards-h4{
+    color: #23A6F0;
+}
+.cards-h5{
+    color: #252B42;
+}
+.bg-header{
+    background-color: #264653;
+}
+.bg-btn{
+    background-color: #E76F51;
+}
+.text-caurosel{
+  color:orangered;
+  font: 700;
+}
+.text-caurosel-p{
+    color:black;
+    font: 800;
+}
+.span-text{
+    color: #E76F51;
+    font-size: 14px;
+    font-weight:600;
+}
+.client-span-text{
+    color: #E76F51;
+    font-weight:600;
+    size: 48px;
+    
+}
+.happy-client{
+    font: Poppins;
+    font-weight: 600;
+    size: 48px;
+    
+}
+.img-gray-scale{
+  filter: grayscale(100%);
+}
+.mt120{
+    margin-top: 120px;
+}
+.star-color{
+    color: #Fd4638;
+    position: relative;
+    left: 30%; 
+    bottom: 10px;
+}
