@@ -1,21 +1,27 @@
+/* fonts */
 p,span{
     font-family: 'Poppins', sans-serif;
 }
 h1,h2{
     font-family: 'Poppins', sans-serif;
 }
+
+/* cards heading color */
 .cards-h4{
     color: #23A6F0;
 }
 .cards-h5{
     color: #252B42;
 }
+/* header background color */
 .bg-header{
     background-color: #264653;
 }
+/* button background color */
 .bg-btn{
     background-color: #E76F51;
 }
+/* caurosel text color */
 .text-caurosel{
   color:orangered;
   font: 700;
@@ -24,29 +30,35 @@ h1,h2{
     color:black;
     font: 800;
 }
+/* span tag text style */
 .span-text{
     color: #E76F51;
     font-size: 14px;
     font-weight:600;
 }
+/* client text style */
 .client-span-text{
     color: #E76F51;
     font-weight:600;
     size: 48px;
     
 }
+/* haapy client heading fonts & weight style */
 .happy-client{
     font: Poppins;
     font-weight: 600;
     size: 48px;
     
 }
+/* image gray scale */
 .img-gray-scale{
   filter: grayscale(100%);
 }
+/* margin top */
 .mt120{
     margin-top: 120px;
 }
+/* star color */
 .star-color{
     color: #Fd4638;
     position: relative;
