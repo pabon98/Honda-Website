@@ -50,10 +50,6 @@ h1,h2{
     size: 48px;
     
 }
-/* image gray scale */
-.img-gray-scale{
-  filter: grayscale(100%);
-}
 /* margin top */
 .mt120{
     margin-top: 120px;
